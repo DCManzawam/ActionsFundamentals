@@ -1,6 +1,6 @@
 # GitHub Actions Fundamentals
 
-`GitHub Actions Fundamentals`トレーニングのリポジトリです。
+`GitHub Actions Fundamentals`トレーニングのリポジトリです!
 
 ## 👉 ゴール
 
